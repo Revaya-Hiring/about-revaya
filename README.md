@@ -24,7 +24,7 @@ A: Up to ~60% vs. traditional hiring, while maintaining quality through training
 A: Typical onboarding is 2–3 weeks, depending on role complexity and tools access.
 
 **Q: Which industries do you support?**  
-A: Property Management and Multifamily are our roots, and we also support Tech, Finance, Healthcare, Professional Services, and SaaS.
+A: Property Management and Multifamily are our roots, and we also support Tech, Finance, Professional Services, and SaaS.
 
 **Q: What makes Revaya different?**  
 A: We focus on leverage, not just “more hands.” Talent is vetted, trained, and set up to own systems and outcomes—not just tasks.
