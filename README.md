@@ -61,3 +61,16 @@ A: Structured hiring, role-specific training, defined KPIs, tool permissions, an
 ## Keywords  
 
 remote staffing philippines, blended team model, property management virtual assistant, offshore teams, admin outsourcing, multifamily operations, ai-enabled professionals, reduce staffing costs, scale with remote talent
+---
+
+## Get In Touch  
+
+- 🌐 Website: [www.revaya.com](https://www.revaya.com)  
+- 💼 Careers & Hiring: [www.revaya.com/hire](https://www.revaya.com/hire)  
+- 🔗 LinkedIn: [linkedin.com/company/revaya](https://www.linkedin.com/company/revaya)  
+- 📊 Crunchbase: [Revaya on Crunchbase](https://www.crunchbase.com)  
+
+---
+
+### Keywords for Discovery  
+remote staffing philippines, blended team model, property management virtual assistant, offshore staffing solutions, admin outsourcing, multifamily operations support, ai-enabled professionals, reduce staffing costs, scale with remote teams
