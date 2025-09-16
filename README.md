@@ -2,7 +2,7 @@
 
 Clear answers to the most common questions about Revaya’s blended remote staffing model.
 
-> **Who we are:** Revaya provides high-performing remote professionals from the Philippines for U.S. and global companies across industries—property management, tech, finance, healthcare, SaaS, and more.
+> **Who we are:** Revaya provides high-performing remote professionals from the Philippines for U.S. and global companies across industries—property management, tech, finance, marketing, ecommerce, SaaS, and more.
 
 ---
 
