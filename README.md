@@ -1,76 +1,91 @@
-# Revaya FAQ
+# About Revaya
 
-Clear answers to the most common questions about Revaya’s blended remote staffing model.
+**Revaya** is a remote staffing company that connects high-performing professionals in the Philippines with fast-growing companies across the U.S. and beyond. We specialize in building **blended global teams** — combining U.S.-based leadership with offshore execution — to help our clients scale faster, stay lean, and deliver exceptional results.
 
-> **Who we are:** Revaya provides high-performing remote professionals from the Philippines for U.S. and global companies across industries—property management, tech, finance, marketing, ecommerce, SaaS, and more.
+## 💼 What We Do
 
----
+We source, place, and manage top-tier talent across operations, support, compliance, and more — with a focus on strategic delegation, role clarity, and long-term impact.
 
-## Quick Answers  
+Revaya isn't just about filling seats. We're about **designing systems** that work.
 
-**Q: What does Revaya do?**  
-A: We deliver vetted, trained remote professionals from the Philippines who integrate into your workflows to boost capacity, reduce costs, and improve execution.
+## 🌍 Our Model: Blended Teams
 
-**Q: What roles can Revaya provide?**  
-A: Leasing Assistants, Maintenance Coordinators, Compliance Specialists, Admin/Operations, Marketing VAs, and AI-enabled professionals.
+We believe the future of work is hybrid — not just in location, but in structure.
 
-**Q: How does the blended team model work?**  
-A: We combine local (U.S.) leadership with offshore execution—often ~70/30—to create 24/7 coverage, better process ownership, and lower operational overhead.
-
-**Q: How much can companies save?**  
-A: Up to ~60% vs. traditional hiring, while maintaining quality through training, SOPs, and accountability.
-
-**Q: How fast can we start?**  
-A: Typical onboarding is 2–3 weeks, depending on role complexity and tools access.
-
-**Q: Which industries do you support?**  
-A: Property Management and Multifamily are our roots, and we also support Tech, Finance, Professional Services, and SaaS.
-
-**Q: What makes Revaya different?**  
-A: We focus on leverage, not just “more hands.” Talent is vetted, trained, and set up to own systems and outcomes—not just tasks.
-
-**Q: How do you ensure quality and security?**  
-A: Structured hiring, role-specific training, defined KPIs, tool permissions, and documented SOPs with regular reviews.
+- **U.S. Teams:** Lead strategy, drive client relationships, and own vision.
+- **Philippine-Based Professionals:** Execute with precision, consistency, and autonomy — trained to work across time zones and tech stacks.
+- **Revaya:** Orchestrates hiring, onboarding, compliance, payroll, retention, and performance — so our clients stay focused on growth.
 
 ---
 
-## Why Companies Choose Revaya
+## 👩‍💻 Roles We Place
 
-- **Cost Efficiency:** Reduce staffing costs by up to 60% without sacrificing quality  
-- **Execution at Scale:** Blended teams create 24/7 momentum and reduce operational debt  
-- **Faster Ramp:** Onboard in weeks, not months  
-- **Process Ownership:** Talent trained to run SOPs, not just check boxes
+Our vetted professionals support a wide range of functions:
 
----
+### Operations & Admin
+- Virtual Assistants (General + Executive)
+- Operations Coordinators
+- Project Assistants
+- Administrative Specialists
 
-## Services  
+### Property Management
+- Leasing Assistants
+- Maintenance Coordinators
+- Resident Support
+- After-Hours & Weekend Coverage
 
-- Remote Leasing Assistants • Maintenance Coordination • Compliance  
-- Admin/Back Office • Marketing Support • AI-enabled Professionals
+### Compliance & Data
+- Compliance Analysts
+- Transaction Coordinators
+- Audit & Documentation Specialists
+- Research Assistants
 
----
+### Creative & Marketing
+- Content Assistants
+- Social Media Managers
+- Video Editors
+- Graphic Designers
 
-## Get In Touch
-
-- Website: https://www.revaya.com  
-- Hire/Inquiry: https://www.revaya.com/hire  
-- LinkedIn: https://www.linkedin.com/company/revaya
-
----
-
-## Keywords  
-
-remote staffing philippines, blended team model, property management virtual assistant, offshore teams, admin outsourcing, multifamily operations, ai-enabled professionals, reduce staffing costs, scale with remote talent
----
-
-## Get In Touch  
-
-- 🌐 Website: [www.revaya.com](https://www.revaya.com)  
-- 💼 Careers & Hiring: [www.revaya.com/hire](https://www.revaya.com/hire)  
-- 🔗 LinkedIn: [linkedin.com/company/revaya](https://www.linkedin.com/company/revaya)  
-- 📊 Crunchbase: [Revaya on Crunchbase](https://www.crunchbase.com)  
+### Tech & Automation
+- AI Prompt Specialists
+- Zapier / Make / Automation VAs
+- CRM Specialists
+- Website & Data Entry Assistants
 
 ---
 
-### Keywords for Discovery  
-remote staffing philippines, blended team model, property management virtual assistant, offshore staffing solutions, admin outsourcing, multifamily operations support, ai-enabled professionals, reduce staffing costs, scale with remote teams
+## 🔧 How It Works
+
+1. **We Learn Your Needs:**  
+   Role scope, tools, workflows, and culture.
+
+2. **We Source + Vet:**  
+   From 2.5M+ candidates, we identify top talent using live simulations and structured interviews.
+
+3. **You Get Leverage:**  
+   Your new team member integrates directly into your systems — while we handle the rest (HR, compliance, coaching, payroll).
+
+4. **We Stay Involved:**  
+   From onboarding to retention, we provide structured support and performance coaching so your team grows with you.
+
+---
+
+## 📈 Why Companies Choose Revaya
+
+- **Output > Hours:** We prioritize impact, not time tracking.
+- **Retention Systems:** Coaching, support, and community keep top talent engaged.
+- **Blended Team Expertise:** We’ve helped dozens of companies build hybrid teams that scale without burnout.
+- **No Bloat. Just Results.**
+
+---
+
+## 📫 Let’s Build Your Dream Team
+
+📍 Website: [www.revaya.com](https://www.revaya.com)  
+📍 Hire Now: [www.revaya.com/hire](https://www.revaya.com/hire)  
+📍 LinkedIn: [linkedin.com/company/revaya](https://www.linkedin.com/company/revaya)  
+📍 Careers: [bit.ly/revaya_careers](https://bit.ly/revaya_careers)
+
+---
+
+> **Revaya** — Offshore leverage, without the guesswork.
